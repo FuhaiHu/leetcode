@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1615364292 source:f:\mycode\my_algorithm\main.cpp
+	<iostream>
+	"sort.h"
+	"stack_line.h"
+	"box.h"
+	"pass_parameters.h"
+	<vector>
+
+1615275586 f:\mycode\my_algorithm\sort.h
+	<iostream>
+
+1615287199 f:\mycode\my_algorithm\stack_line.h
+
+1615357736 f:\mycode\my_algorithm\box.h
+
+1615358837 f:\mycode\my_algorithm\pass_parameters.h
+
